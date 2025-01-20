@@ -36,7 +36,7 @@ This project implements an AI-powered workflow for summarizing and aggregating n
 ## Dependencies
 
 - Python 3.8+
-- [Claude API](https://openai.com/api/)
+- [Claude API](https://www.anthropic.com/api)
 - [Brave Search API](https://brave.com/search/)
 - Required Python libraries (listed in `requirements.txt`):
   - `anthropic`
