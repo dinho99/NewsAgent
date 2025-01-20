@@ -39,7 +39,7 @@ This project implements an AI-powered workflow for summarizing and aggregating n
 - [OpenAI API](https://openai.com/api/)
 - [Brave Search API](https://brave.com/search/)
 - Required Python libraries (listed in `requirements.txt`):
-  - `openai`
+  - `anthropic`
   - `requests`
   - `dotenv`
 
